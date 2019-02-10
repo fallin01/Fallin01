@@ -1,0 +1,17 @@
+﻿{"allRoundData":
+[{"timeLimitInSeconds":20,"pointsAddedForCorrectAnswer":10,"questions":
+
+[{"questionText":"You(informal) for Hugged?","answers":[{"answerText":"abrimos","isCorrect":false},
+{"answerText":"abarqué","isCorrect":false},{"answerText":"abrazaste","isCorrect":true},
+{"answerText":"abosbieron","isCorrect":false}]},
+{"questionText":"You all: Boarded","answers":
+[{"answerText":"abordaron","isCorrect":false},{"answerText":"aburrió","isCorrect":false},
+{"answerText":"aburrieron","isCorrect":true},{"answerText":"aburrí","isCorrect":false}]},
+
+{"questionText":"They: Finished","answers":[{"answerText":"abarcamos","isCorrect":false},
+{"answerText":"abrazaron","isCorrect":false},{"answerText":"acabaron","isCorrect":true},
+{"answerText":"abarcaste","isCorrect":false}]},
+
+{"questionText":"You (informal): were plentiful","answers":
+[{"answerText":"aburrimos","isCorrect":false},{"answerText":"acabaron","isCorrect":false},
+{"answerText":"abundaste","isCorrect":true},{"answerText":"aburriste","isCorrect":false}]}]}]}
