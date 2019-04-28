@@ -1,4 +1,0 @@
-Farrah,200 
-Kreacher,30 
-Tikky,400 
-Lynse,400
