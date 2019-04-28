@@ -742,7 +742,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1328932961}
-        m_MethodName: endgame
+        m_MethodName: scoreScreen
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
